@@ -1,0 +1,12 @@
+C:\Users\AnthonyChiara\OneDrive - Shift Digital\Desktop\ACM\ACM\Acme.Common\bin\Debug\Acme.Common.dll
+C:\Users\AnthonyChiara\OneDrive - Shift Digital\Desktop\ACM\ACM\Acme.Common\bin\Debug\Acme.Common.pdb
+C:\Users\AnthonyChiara\OneDrive - Shift Digital\Desktop\ACM\ACM\Acme.Common\obj\Debug\Acme.Common.csprojAssemblyReference.cache
+C:\Users\AnthonyChiara\OneDrive - Shift Digital\Desktop\ACM\ACM\Acme.Common\obj\Debug\Acme.Common.csproj.CoreCompileInputs.cache
+C:\Users\AnthonyChiara\OneDrive - Shift Digital\Desktop\ACM\ACM\Acme.Common\obj\Debug\Acme.Common.dll
+C:\Users\AnthonyChiara\OneDrive - Shift Digital\Desktop\ACM\ACM\Acme.Common\obj\Debug\Acme.Common.pdb
+C:\MyCode\DevSandBox\ACM\ACM\Acme.Common\bin\Debug\Acme.Common.dll
+C:\MyCode\DevSandBox\ACM\ACM\Acme.Common\bin\Debug\Acme.Common.pdb
+C:\MyCode\DevSandBox\ACM\ACM\Acme.Common\obj\Debug\Acme.Common.csprojAssemblyReference.cache
+C:\MyCode\DevSandBox\ACM\ACM\Acme.Common\obj\Debug\Acme.Common.csproj.CoreCompileInputs.cache
+C:\MyCode\DevSandBox\ACM\ACM\Acme.Common\obj\Debug\Acme.Common.dll
+C:\MyCode\DevSandBox\ACM\ACM\Acme.Common\obj\Debug\Acme.Common.pdb

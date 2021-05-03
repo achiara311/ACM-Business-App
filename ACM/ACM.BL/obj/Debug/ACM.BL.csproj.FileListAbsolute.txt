@@ -1,0 +1,18 @@
+C:\Users\AnthonyChiara\OneDrive - Shift Digital\Desktop\ACM\ACM\ACM.BL\bin\Debug\ACM.BL.dll
+C:\Users\AnthonyChiara\OneDrive - Shift Digital\Desktop\ACM\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
+C:\Users\AnthonyChiara\OneDrive - Shift Digital\Desktop\ACM\ACM\ACM.BL\obj\Debug\ACM.BL.csprojAssemblyReference.cache
+C:\Users\AnthonyChiara\OneDrive - Shift Digital\Desktop\ACM\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
+C:\Users\AnthonyChiara\OneDrive - Shift Digital\Desktop\ACM\ACM\ACM.BL\obj\Debug\ACM.BL.dll
+C:\Users\AnthonyChiara\OneDrive - Shift Digital\Desktop\ACM\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
+C:\Users\AnthonyChiara\OneDrive - Shift Digital\Desktop\ACM\ACM\ACM.BL\bin\Debug\Acme.Common.dll
+C:\Users\AnthonyChiara\OneDrive - Shift Digital\Desktop\ACM\ACM\ACM.BL\bin\Debug\Acme.Common.pdb
+C:\Users\AnthonyChiara\OneDrive - Shift Digital\Desktop\ACM\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CopyComplete
+C:\MyCode\DevSandBox\ACM\ACM\ACM.BL\bin\Debug\ACM.BL.dll
+C:\MyCode\DevSandBox\ACM\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
+C:\MyCode\DevSandBox\ACM\ACM\ACM.BL\bin\Debug\Acme.Common.dll
+C:\MyCode\DevSandBox\ACM\ACM\ACM.BL\bin\Debug\Acme.Common.pdb
+C:\MyCode\DevSandBox\ACM\ACM\ACM.BL\obj\Debug\ACM.BL.csprojAssemblyReference.cache
+C:\MyCode\DevSandBox\ACM\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
+C:\MyCode\DevSandBox\ACM\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CopyComplete
+C:\MyCode\DevSandBox\ACM\ACM\ACM.BL\obj\Debug\ACM.BL.dll
+C:\MyCode\DevSandBox\ACM\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
